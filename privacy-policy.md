@@ -46,7 +46,8 @@ That is the complete list.
 - **Direct messages.** The bot does not read or store DMs.
 - **Command history or analytics.** The bot does not record who ran which
   command, or count usage. There is no tracking of any kind.
-- **Payment information.** The bot takes no payments.
+- **Payment information.** The bot takes no payments, and donations do not pass
+  through it — see *Donations* below.
 
 ## About the Message Content intent
 
@@ -82,6 +83,29 @@ server it joined, which gift code was ingested, and errors — to its own consol
 output, where the host retains them for a limited period before they roll over.
 These logs are for debugging only, are visible only to the operator, and are not
 analysed, aggregated or shared.
+
+## Donations
+
+Donating is optional and has nothing to do with using the bot. If you do donate,
+it happens on **Buy Me a Coffee**, not here and not in Discord:
+
+- **Buy Me a Coffee and its payment processor collect and hold whatever the
+  payment requires** — typically your name, your email address and your payment
+  details — under their own privacy policies, and they are the parties
+  processing it. See
+  [Buy Me a Coffee's Privacy Policy](https://buymeacoffee.com/privacy-policy).
+- **The operator never sees your card or bank details.** What is visible to them
+  is the donation itself, and whatever name or message you chose to attach to it,
+  in Buy Me a Coffee's own dashboard.
+- **Nothing about a donation is written to the bot's database.** No donor list, no
+  flag against your Discord account, no email address. The table above is still
+  the complete list.
+- **A donation is not linked to your Discord identity** unless you volunteer that
+  yourself, and the bot has no way to connect the two.
+
+To see or delete what Buy Me a Coffee holds about your donation, contact
+Buy Me a Coffee — those records are in their systems, not the operator's, so the
+operator cannot delete them, though they will pass a request on.
 
 ## How long data is kept
 
@@ -130,6 +154,7 @@ changes to what is stored will be announced in the servers the bot is in.
 
 ## Contact
 
-To ask a question, or to request access or erasure: message a moderator in
-the Discord server where you found the bot, and they will pass it on to the
-operator.
+To ask a question, or to request access or erasure: join the bot's Discord server
+at [discord.gg/sQXhtHQeWM](https://discord.gg/sQXhtHQeWM) and ask the operator
+there. You can also message a moderator in the server where you found the bot,
+and they will pass it on.

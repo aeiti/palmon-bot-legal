@@ -19,8 +19,10 @@ Palmon Bot answers questions about *Palmon: Survival* — Palmon stats, traits,
 mounts, bosses, VIP perks — and tracks the game's recurring event schedules and
 gift codes. It posts its answers in Discord and nowhere else.
 
-It is a free hobby project. There is no paid tier, no subscription, and nothing
-is ever sold through it.
+It is a free hobby project. Every command is available to every server: there is
+no paid tier, no subscription, and nothing is sold through it. Voluntary
+donations towards its running costs are accepted, and they buy nothing — see
+section 10.
 
 ## 2. Not affiliated with the game
 
@@ -102,13 +104,60 @@ You may stop using the bot at any time by removing it from your server. See
 the [Privacy Policy](https://aeiti.github.io/palmon-bot-legal/privacy-policy/)
 for what happens to stored data when you do.
 
-## 10. Changes to these terms
+<a id="donations"></a>
+
+## 10. Donations
+
+Palmon Bot is free. If you want to help with what it costs to run, donations are
+accepted through **Buy Me a Coffee**, at
+[buymeacoffee.com/palmontools](https://buymeacoffee.com/palmontools). They are
+welcome, and they are entirely optional.
+
+**A donation is a gift, not a purchase.** Nothing is supplied in return:
+
+- no feature, command or data that another server does not already have;
+- no priority, no queue-jumping on requests, and no say in what gets built next;
+- no support commitment and no uptime guarantee — section 7 applies to donors
+  exactly as it applies to everyone else;
+- nothing in *Palmon: Survival* itself. See section 2: this is a fan project,
+  the game's developers and publishers receive none of it, and donating here
+  does not support the game.
+
+What it goes towards is the cost of keeping the bot running — principally the
+machine it is hosted on. There is no budget, no published accounting, and no
+promise that any given amount is spent on any given thing.
+
+Buy Me a Coffee takes the payment and passes it on. Your card details are handled
+by Buy Me a Coffee and its payment processor, never by the operator and never by
+the bot — see the
+[Privacy Policy](https://aeiti.github.io/palmon-bot-legal/privacy-policy/#donations)
+for what that means for your data.
+
+**Recurring donations.** Nothing recurs unless you choose a recurring option on
+Buy Me a Coffee yourself. If you do, you can change or cancel it at any time from
+your account there, without asking anyone.
+
+**Refunds.** A gift is not normally refundable. That said, mistakes happen: if
+you donated by accident, entered the wrong amount, or meant to cancel a recurring
+donation and did not, ask within 30 days and it will be refunded in full, to the
+payment method you used. No reason is needed. Buy Me a Coffee's own refund process
+applies alongside this, and its terms may allow you longer.
+
+**Not a charity.** This is one person's hobby project, not a registered charity
+or non-profit. A donation is not tax-deductible, and no receipt is issued beyond
+Buy Me a Coffee's own confirmation.
+
+## 11. Changes to these terms
 
 These terms may change as the bot does. The "last updated" date above will
 change with them, and the current version is always the one at this URL.
 Continuing to use the bot after a change means you accept the revised terms.
 
-## 11. Contact
+## 12. Contact
 
-Questions about these terms: message a moderator in the Discord server
-where you found the bot, and they will pass it on to the operator.
+Questions about these terms, or about a donation: join the bot's Discord server
+at [discord.gg/sQXhtHQeWM](https://discord.gg/sQXhtHQeWM) and ask the operator
+there. You can also message a moderator in the server where you found the bot,
+and they will pass it on.
+
+Questions about a donation or a refund are usually answered within a few days.
